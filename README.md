@@ -1,4 +1,4 @@
-Weather Farm — Weather Forecast & Advisory Tool (MERN)
+# Weather Farm — Weather Forecast & Advisory Tool (MERN)
 
 Weather Farm is a MERN-based Weather Forecast & Advisory Tool.
 It provides real-time weather data, short-term forecasts, visual charts, and farmer-friendly advisories, with a Download PDF feature for easy sharing.
